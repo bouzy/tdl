@@ -15,6 +15,12 @@ Open the Terminal application and type the following commands
 
 ```bash
 git clone https://github.com/bouzy/tdl.git
+```
+
+```bash
 cd tdl
+```
+
+```bash
 sh setup.sh
 ```
