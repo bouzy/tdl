@@ -10,11 +10,11 @@
 - tidal-dl
 
 ## Installation
-1. Open the Terminal application and type the following commands
+Open the Terminal application and type the following commands
 
 
 ```bash
-2. 'git clone https://github.com/bouzy/tdl.git'
-3. 'cd tdl'
-3. 'sh setup.sh'
+git clone https://github.com/bouzy/tdl.git
+cd tdl
+sh setup.sh
 ```
